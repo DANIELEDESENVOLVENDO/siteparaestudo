@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/INDIO1.png" type="INDIO3">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="CSS/abc.CSS" >
+    <title>ABC</title>
+    <body>
+    <DIV class="cabecaservicos">
+    <h1>Aprenda mais com o ABC da umbanda👳‍♀️ 🤲</h1>  
+    <H6>"Quando pensamos em espiritualidade logo nos vem à mente que encontrar Deus é busca-lo do lado de fora". <p> Raquel Freire</p> </H6>
+</head> 
+<div class="OXALA">    
+<figure id="img" style="float: left">
+<img src="CSS/IMG/oxala.png">
+</figure>  
+<h2>Orixá Oxalá</h2>
+<h3> Oxalá – O Orixá Maior.
+
+    Termo: Oxalá meu pai. Significado:“O pai maior”. <p>Cores: Branco. Cor da Vela: Branca.Dia da semana: Sexta-feira.<p> Oxalá é considerado e cultuado como o maior e mais respeitado de todos os orixás do <p></p>panteão africano. Simboliza a paz, é o pai maior nas nações das religiões de</p> tradição africana.</h2>
+</div>
+<DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/oxala-criou-a-terra-oxala-criou-o-mar.mp3" type="audio/mp3" />
+            <p>seu navegador não suporta HTML5><p>   L5     
+</div>
+<div class="IANSA">    
+    <figure id="img" style="float: left">
+    <img src="CSS/IMG/IANSA.png">
+    </figure>  
+    <h2><span style="color: #f00; text-shadow: 0.1em 0.1em 0.2em rgb(255, 255, 255)">Orixá Iansã </span> 
+</h2>
+<h3> Iansã – Senhora dos ventos e tempestades.
+
+    Saudação: Epahey Oyá! – (Salve o raio, Iansã!).<P>Cores: marrom e vermelho
+    Cor da Vela: Amarela. Dia da semana: Quarta-feira<p> Iansã Orixá guerreira, esposa amada de Xangô, recebe dele o título de Iansã que</p>  faz referência ao entardecer. Iansã que pode ser traduzido como “a mãe do céu rosado” </p> ou a “mãe do entardecer”, portanto; o rosa é a cor de Iansã por excelência.</p> Mas, Iansã se manifesta também através do amarelo, marrom e vermelho.</p></h3>
+ </div>
+ <BR> <BR>
+ <DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/iansa.mp3" type="audio/mp3" />
+            <p>seu navegador não suporta HTML5><p>      
+</div> 
+
+<div class="XANGO">
+    <figure id="img" style="float: left">
+        <img src="CSS/IMG/xango.png">
+        </figure>  
+        <h2><span style="color: rgb(68, 7, 7); text-shadow: 0.1em 0.1em 0.2em rgb(250, 250, 250)">Orixá Xangô </span> 
+    </h2>
+    
+    <h3> Xangô – Senhor da justiça. Saudação: Kao Kabesilê! – (Permita-me vê-lo, Majestade!).
+        <p> Cores: Vermelho e branco, Marrom e branco. Cor da Vela: Marrom.
+        Dia da semana: </p> Quarta-feira. Xangô é um orixá que tem o controle sobre os raios e trovões e que</p> também expele fogo pela boca. Ele aparece com um machado de duas faces</p> em virtude de sua  inclinação guerreira. Conhecido como o rei de Oyó, Xangô</p> é um poderoso orixá que tem o controle sobre os raios e trovões,</p> e que também expele fogo pela boca.</p></h3>
+     </div>
+     <DIV class="AUDIOS_ORIXAS">
+        <audio autoplay="autoplay" controls="controls">
+                <source src="AUDIOS/estao-queimando-vela.mp3" type="audio/mp3" />
+                <p>seu navegador não suporta HTML5><p>   5     
+    </div>     
+<div class="OXUM">
+        <figure id="img" style="float: left">
+            <img src="css/IMG/oxum-removebg-preview.png">
+            </figure>  
+            <h2><span style="color: rgba(68, 44, 7, 0.904); text-shadow: 0.1em 0.1em 0.2em rgb(95, 94, 6)">Orixá Oxum </span> 
+        </h2>
+        
+    <h3> Oxum – Orixá do amor, da fertilidade e maternidade.
+    </p>Saudação: Ayê, yê mamãe Oxum! – (Olha por nós mãezinha).
+        <p>Conhecida como a deusa do amor e orixá das águas, mantém em equilíbrio </p> as emoções da fecundidade e da natureza. Ela é a mãegentil dos povos  antigos</p>  e dos novos, é ela que renova e intercede pelos seres humanos em todas as situações.</h3>
+        </div>
+        <DIV class="AUDIOS_ORIXAS">
+            <audio autoplay="autoplay" controls="controls">
+                    <source src="AUDIOS/eu-vi-mamae-oxum-na-cachoeira-do-cd-para-os-anjos-e-os-orixas.mp3" type="audio/mp3" />
+                    <p>seu navegador não suporta HTML5><p>      
+        </div>   
+
+<div class="OGUM">
+            <figure id="img" style="float: left">
+            <img src="IMG/OGUM-removebg-preview-removebg-preview.png">
+            </figure>  
+            <h2><span style="color: rgba(0, 38, 255, 0.904); text-shadow: 0.1em 0.1em 0.2em rgb(255, 255, 255)">Orixá Ogum</span>
+<h3><p>Ogum – O Orixá da guerra.
+
+    Saudação: “Ogunhê meu Pai”- (Brado que <p></p>representa o força de Ogum).
+    Cores: Azul, Vermelho. Dia da semana: Terça-feira. <p> Ogum é um orixá representado pela figura de um guerreiro. Ele é considerado <p></p> o orixá que possui maior proximidade com os seres humanos depois de Exu. <p></p> Ogum é um orixá costumeiramente associado à guerra e  ao fogo.  De acordo  com <p></p>a mitologia africana.  Ogum era filho do rei Odudu a, fundador da cidade de Ifé </p></h3>
+</div>
+<DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/se-meu-pai-e-ogum-vencedor-de-demanda.mp3" type="audio/mp3" />
+            <p>seu navegador não suporta HTML5><p>     
+</div>
+        <br>
+<div class="NANA">
+            <figure id="img" style="float: left">
+            <img src="IMG/NANA-removebg-preview.png">
+            </figure>  
+            <h2><span style="color: rgba(49, 2, 77, 0.904); text-shadow: 0.1em 0.1em 0.2em rgba(247, 0, 206, 0.671)">Orixá Nanã</span>
+<h3><p>Nanã Buruquê – A mais velha dos Orixás.
+    Saudação: Saluba Nanã! <p></p> (Salve a Mãe das Águas calmas).
+   Nanã é um importante orixá feminino relacionado <p></p>com a origem do homem na Terra. O seu domínio se relaciona com as águas paradas,<p></p> os pântanos e a terra úmida. Do ponto de vista divino, sua relação com o barro,<p></p> mistura de água e terra, coloca essa divindade nos domínios existentes entre a vida e a morte.</p></h3>
+</div>  
+<DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/pontos-de-umbanda-amigos-do-axe.mp3" type="audio/mp3" />
+            <p>seu navegador não suporta HTML5><p>        
+</div> 
+
+<div class="OMULUOBALUAE">
+            <figure id="img" style="float: left">
+            <img src="IMG/omulu_-_obaluae-removebg-preview.png">
+            </figure>  
+            <h2><span style="color: rgba(5, 3, 0, 0.904); text-shadow: 0.1em 0.1em 0.2em rgb(247, 242, 0)">Orixá Omulu e Obaluaê</span><h2>Qual a diferença entre eles</h2> 
+<h3>Omolú/Obaluaê – O Orixá da medicina.
+    Saudação: Atotô! – (Silêncio para o grande Rei da Terra).
+    <p>Ambos são diferentes e os mesmos ao mesmo tempo? Um é o avô e outro o bisavô? 
+        Se pensarmos através da concepção de Orixá enquanto energia fica difícil de entender
+         que uma Energia seja mais “velha” ou “nova”. Essa tentativa de explicação surge com 
+        a influência do candomblé que tentou explicar os mistérios desses Orixás através da 
+        mitologia e dos contos, que por terem campos de atuações que à primeira vista são 
+        parecidos fica evidente que, se a explicação não for minuciosa, surgirá equívocos 
+        sobre o entendimento dos mesmos. Com isso entendido, podemos começar a explicar as 
+        diferenças desses sagrados Orixás e seus campos de atuação.
+
+        <h3>Omolu:</h3>
+        
+        <p>É o Orixá masculino assentado no polo negativo do Trono da Geração. Seu 
+        mistério atuante é o que permeia os próprios mistérios da morte (desencarne),
+         perceba que ele é em si um mistério a partir de seu próprio mistério ativo. 
+        Pai Omolu atua no desligamento do espírito à matéria e na condução desse mesmo 
+        para as zonas da vida (dimensões, mundos, esferas e etc) da qual tenha merecimento.
+         Omolu é um dos guardiões divinos “que consagram a si e à sua existência, como 
+         divindade, ao amparo dos espíritos caídos perante as leis que dão sustentação a 
+         todas as manifestações da vida” (Saraceni, 2008). Para melhor entende-lo, temos que 
+         lembrar que ele está assentado no polo negativo do Trono da Geração, no polo 
+         positivo temos Yemanjá como estimuladora da geração e da criatividade nos seres, 
+         logo, Omolu será o agente paralisante dos seres que se desvirtuam e atentam contra 
+        os princípios da Geração Divina. Temos por geração tudo aquilo que cria e desenvolve, 
+        podendo ser ideias, projetos, princípios, pois tudo isso geramos, não tão somente o
+        ato sexual. Se pudermos resumir, Omolu é o Orixá que cuida dos seres que se negativam
+        ante os processos criativos e gerativos da vida.
+        
+        “Se Omolu rege sobre o ‘cemitério’ e sobre os espíritos dos ‘mortos’ é porque esses 
+        espíritos atentaram contra a vida ou algum dos seus sentidos. Logo, só deve teme-lo
+         quem assim proceder, pois aí, queira ou não, será alcançado por sua irradiação paralisadora 
+        que atuará sobre seu magnetismo e o enviará a um meio onde só seus afins desequilibrados vivem”
+         (Saraceni, 2008). Perceba que nosso amado pai Omolu pouco é punitivo ou maldoso, somos seres
+         regidos por leis e é através delas que podemos nos expressar no mundo e será por amor que
+         Omolu nos conduzirá para suas zonas da vida paralisadoras para que todo nosso negativismo
+         e desequilibro possa ser esgotado e possamos voltar a gozar da vida como ela realmente é
+         aos olhos do Criador.</p>
+        
+        <h3>Obaluaê:</h3>
+        
+        <p>Pai Obaluaê é o Orixá masculino que está assentado no polo positivo do Trono da Evolução, seu 
+        campo de atuação é o das passagens de um nível vibratório, ou estágio da evolução, para outro.
+         É aqui que começa a confusão com Omolu, já que ambos possuem campos próximos mas muito distintos
+         entre si. Enquanto Omolu atuará no desencarne do ser, Obaluaê atuará na redução do corpo plasmático
+         do espírito para que se tenha afinidade e se conecte com o novo invólucro carnal. Para que possamos
+         melhor entender as diferenças, temos que lembrar dos Tronos do Conhecimento de Deus da qual esses 
+        Orixás fazem parte, um está assentado no Trono da Geração e o outro no Trono da Evolução. Se Omolu 
+        “cuida” da passagem do desencarne, será Obaluaê que se consagrará como o Senhor das Passagens porque
+         tanto rege as passagens das linhas evolutivas e da encarnação, como rege também a passagem de faixas 
+        vibratórias. Perceba que Omolu tão somente cuida da passagem da morte pois está no polo negativo da 
+        geração e a geração é a vida em si, resumidamente, se Yemanjá gera a agregação de Oxum, entre os gametas
+         masculinos e femininos, será por excelência que Omolu “romperá” esse laço e conduzirá o espírito “rumo ao desconhecido”.
+        
+        Perceba que facilmente é confundido o campo de atuação desses Orixás, mas com uma explicação um pouco mais detalhada se torna nítida a diferença entre eles. Essas são algumas das diferenças entre os Orixás em questão, mas se já é difícil explicar, igualmente será o entendimento. Apenas deve-se ficar claro que ambos Orixás são diferentes e atuam de formas distintas nos seres que se encontram, temporariamente ou não, sob sua tutela.</p>
+        
+        <p></p>Referências: Rubens Saraceni no livro “Orixás – Teogonia de Umbanda”.</p></h3>
+</div>
+<DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/orixas.mp3" type="audio/mp3" />
+            <p>seu navegador não suporta HTML5><p>        
+</div>
+<DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/obaluae.mp3" type="audio/mp3" />
+            <p>seu navegador não suporta HTML5><p>       
+</div>
+
+<div class="IEMANJA">
+        <figure id="img" style="float: left">
+        <img src="IMG/IEMANJA-removebg-preview.png">
+        </figure>  
+        <h2><span style="color: rgba(4, 95, 122, 0.904); text-shadow: 0.1em 0.1em 0.2em rgba(255, 255, 255, 0.74)">Orixá Iemanjá</span>
+<h3><p>Iemanjá – Deusa do mar.
+    Saudação: Odociá (ou Odocyá)!  <p></p> (Salve a Senhora das águas!).
+   Cores: prata e branco. Cor da Vela: Azul claro. <p> Dia da semana: Sábado.Iemanjá é a Yabá (Orixá Feminino) mais popular no Brasil.  <p></p>Junto com Oxum representa a Terceira Linha da Umbanda. Iemanjá simboliza <p></p> o amor maternal e puro, a fertilidade e a abundância. Sua imagem</p> é de uma linda mulher com cabelos longos. Diz-se que Iemanjá é vaidosa </p> e gosta de receber presentes como perfumes e flores.</p></h3>
+</div>
+<DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/rainha-das-ondas-sereia-do-mar-iemanja.mp3" type="audio/mp3" />
+            <p>seu navegador não suporta HTML5><p>       
+</div>
+<br>
+
+<div class="OXUMARE">
+    <figure id="img" style="float: left">
+        <img src="IMG/oxumare-removebg-preview (1).png"><BR><BR><BR>
+    </figure>    
+    <h2><span style="color: rgba(251, 255, 0, 0.993); text-shadow: 0.1em 0.1em 0.2em   rgba(241, 0, 221, 0.74)">Orixá Oxumaré</span>
+<h3><p>Oxumaré – era a divindade do arco-íris. Saudação: "Arroboboi Oxumarê!"<P>(Salve o Senhor das Águas Supremas! – Salve o Senhor do Arco Íris!).<P>    <P>Cores: prata e branco. Cor da Vela: Azul claro. Dia da semana: Sábado.<p> O Orixá Oxumaré é o símbolo da continuidade e da permanência. É a cobra arco-íris,<P>representa a riqueza e a fortuna. Rege o princípio da multiplicidade da vida<p></p> e o transcurso entre variados destinos.</p></h3>
+</div>
+<DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/mare-mare.mp3" type="audio/mp3" />
+           <p>seu navegador não suporta HTML5><p>       
+</div>
+            
+<div class="OXOSSI">
+    <figure id="img" style="float: left">
+        <img src="IMG/oxossi-removebg-preview (4).png">
+    </figure>    
+    <h2><span style="color: rgba(7, 43, 3, 0.993); text-shadow: 0.1em 0.1em 0.2em  rgba(7, 1, 1, 0.904); text-shadow: 0.1em 0.1em 0.2em rgb(33, 78, 6)">Orixá Oxossi</span>
+<h3><p>Oxóssi – O Orixá da caça e Rei das matas.Saudação: Okê arô!! <P></P> (Dê seu brado, Majestade!).Oxóssi é considerado um orixá da mata que tem<P></P> sobre o seu domínio o arco e a flecha. Apesar de muito simples, esta imagem <P></P>estabelece uma rica teia de interpretações que viabilizam a mitologia e a<P></P> importância de Oxóssi para as várias manifestações religiosas de<P></P> cunho afro-brasileiro.</p></h3>
+</div>
+<DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/o-rei-das-matas-sandro-luiz-umbanda.mp3" type="audio/mp3" />
+            <p>seu navegador não suporta HTML5><p>        
+</div>
+
+<div class="EXU">
+    <figure id="img" style="float: left">
+        <img src="IMG/EXU-removebg-preview.png">
+    </figure>    
+    <h2><span style="color: rgba(3, 3, 3, 0.993); text-shadow: 0.1em 0.1em 0.2em  rgba(218, 13, 13, 0.904); text-shadow: 0.1em 0.1em 0.2em rgb(255, 255, 255)">Orixá Exú</span>
+<h3><p>Exú – Mensageiro dos orixás
+    Saudação: Laroyê Exú! – (Meus respeitos ao Mensageiro).<P> Cores: vermelho e preto. Cor da Vela: Preta, Preta e Vermelha, ou Vermelha<P></P> (Pomba-Gira)
+    Dia da semana: Segunda-feira. Exu é o orixá da comunicação e da linguagem: <p>assim, atua como mensageiro entre os seres humanos e as divindades, (dentre outras muitas <P> atribuições). É cultuado no continente africano pelo povo iorubá, bem como em cultos afro-descendentes.</p></h3>
+</div>
+<DIV class="AUDIOS_ORIXAS">
+    <audio autoplay="autoplay" controls="controls">
+            <source src="AUDIOS/exu.mp3" type="audio/mp3" />
+            <p>seu navegador não suporta HTML5><p>        
+</div>
+         
+</body>
+<HR>
+<HR> 
+<footer div class="redes">
+        <a href="https://imagens.canaltech.com.br/empresas/630.400.jpg" style: width="2" height="auto" target="_blank" rel="external"><img src="IMG/zapp.png" alt="IMG"></a>
+        <a href="https://mail.google.com/mail/u/templocpb@gmail.com" style: width="10" height="5" target="_blank" rel="external"><img src="IMG/ggabc.png" alt="IMG"></a>	
+        <a href="https://www.facebook.com/groups/191934704835791" style: width="10" height="5" target="_blank" rel="external"><img src="IMG/face.png"alt="IMG"></a>	
+        <a href="https://www.instagram.com/templotecpb/" style: width="10" height="5" target="_blank" rel="external"><img src="IMG/download-removebg-preview.png"alt="IMG"></a>
+        <a href="https://www.youtube.com/watch?v=u4WiQ_ltSAA" style: width="10" height="5" target="_blank" rel="external"><img src="IMG/17-removebg-preview.png"IMG"></a>	
+    <div>
+        <br>    <br>    <br>    <br>    <br>    <br>    <br> <br> <br> <br>      
+<div class="Mileva">
+		<p>⌛ 🐦    Desenvolvido por: Apps Mileva      🐦⌛</p>
+		<p><a href="https://www.facebook.com/AppsDanielefelix" target="_blank" rel="external" font size = "2px" width="35" height="30" >https://www.facebook.com/AppsDanielefelix </a> </p>
+</div>
+
+    <button class="btn-GREEN"><li><a href="TECPB.html" rel="external">      Volte para a página inicial</a></li></button></a></li></button>
+
+</FOOTER>
+</html>
