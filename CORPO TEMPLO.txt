@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<hmtl lang= "pt-BR">
+<head>
+	<link rel="shortcut icon" href="simbolo casa.jpg" type="png">
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://github.com/DANIAFEHNIX/Site-TECPB/blob/main/STYLE.CSS">
+ 	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Miltonian+Tattoo&family=Permanent+Marker&family=Roboto:wght@500&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>TECPB
+</title>
+<div CLASS="MATA">
+<h1><BR>🏹Templo Escola Caboclo Pena Branca</h1>
+<H5><strong>👳‍♀Trabalhamos para ajudar nossos irmãos terrenos em busca da evolução.🌿</H5></strong> 
+<button class="btn-orange"><li><a href="Sobre.html" target="_blank" rel="prev">Sobre</a></li></button>
+<button class="btn-orange"><li><a href="Contato.html"target="_blank" rel="external">Contato</a></li></button></a></li></button>
+<button class="btn-orange"><li><a href="Galeria.html"target="_blank" rel="external">Galeria</a></li></button></a></li></button>
+<button class="btn-orange"><li><a href="Servicos.html"target="_blank" rel="external">Serviços</a></li></button></a></li></button>
+</div>
+
+</head>
+<body>
+
+<br>
+<br>
+<div class="logo">
+	<img src="CSS/PENASS.PNG">
+</div>
+<div CLASS="ÁREA">
+		<h2>Nossa casa está realizando trabalho há mais de 25 anos</h2><p>Sobre o zelamento da nosjjjjjjjjjjjjjjjjjjjsa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicinjjjjjjjjjjjg eljjjjjjjjjjjjjjjjit. Laboriosam non ipsam <p><p>Sobre o zelamento da nosjjjjjjjjjjjjjjjjjjjsa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicinjjjjjjjjjjjg eljjjjjjjjjjjjjjjjit. Laboriosam non ipsam <p></p>
+		<br><hr><hr>
+<div class="indioft">
+	<img src="CSS/512.png">
+</div>
+<div CLASS="Caboclo">
+<br>
+<br>
+<br>
+<h2>Nossa casa está realizando trabalho há mais de 25 anos</h2><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate <p><p>Sobre o zelamento da nossa mãe ElisângeiiiiiiiiiiiiiiiiiiiiiiiiiJiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiilacolate elit.<p> Laboriosam non ipshhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhham vero veritatis<p><p>Sobre o zeloiiiiiiiiiiiiaiiiiiiiiiiiiiiimento d pequena anaínlllllllllllla preta bolo de chocolate <p><p>Sobre o zelalisângela Machado, e nossa mãe pequena Janaína preta lina  preta lina bolo de chocol<p><p>Sobre o zelamento da nossa mãe Elisângína preta lina bolo de chocolate <p><p>Sobre o zelameena Janaína preta lina bolo de chocolate non ipsam vero veritatis<p></p><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta</p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta</p> Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta</p> 
+</div>
+<div class="rompe">
+	<img src="rompe.png">
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="Rompe10">
+<h2>Nossa casa está realizando trabalho há mais de 25 anos</h2><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipccccccccccccccccccccccccccccccccccccccccccccisicing elit. Laboriosam non ipsam vero veritatis<p><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicing elit. Laboriosam non ipsam vero veritatiscccccccccccccccccccccccccccccccccccccccccccc<p><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicing elit. Laboriosam non ipsam vero veritatiscccccccccccccccccccccccccccccccccccccccccccc<p><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicing elit. Laboriosam non ipsam vero veritatiscccccccccccccccccccccccccccccccccccccccccccc<p><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicing elit. Laboriosam non ipsam vero veritatiscccccccccccccccccccccccccccccccccccccccccccc<p><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicing elit. Laboriosam non ipsam vero veritatiscccccccccccccccccccccccccccccccccccccccccccc<p><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicing elit. Laboriosam non ipsam vero veritatiscccccccccccccccccccccccccccccccccccccccccccc<p><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicing elit. Laboriosam non ipsam vero veritatiscccccccccccccccccccccccccccccccccccccccccccc<p><p>Sobre o zelamento da nossa mãe Elisângela Machado, e nossa mãe pequena Janaína preta lina bolo de chocolate onsectetur adipisicing elit. Laboriosam non ipsam vero veritatiscccccccccccccccccccccccccccccccccccccccccccc<p>
+</div>
+</body>
+<footer>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<HR>
+<br>
+<div class="redes">	
+		<a href="https://imagens.canaltech.com.br/empresas/630.400.jpg" style: width="10" height="15" target="_blank" rel="external"><img src="IMG/zap.png"></a>
+
+		<a href="https://mail.google.com/mail/u/templocpb@gmail.com" style: width="10" height="15" target="_blank" rel="external"><img src="IMG/mail.PNG"></a>		
+
+		<a href="https://www.facebook.com/groups/191934704835791" style: width="10" height="15" target="_blank" rel="external"><img src="IMG/face.png"></a>	
+
+		<a href="https://www.instagram.com/templotecpb/" style: width="10" height="15" target="_blank" rel="external"><img src="INSTAGRAM.png"></a>
+		
+		<a href="https://www.youtube.com/watch?v=u4WiQ_ltSAA" style: width="10" height="15" target="_blank" rel="external"><img src="youtube.png"></a>
+
+<div>
+<br>			
+<div class="Mileva">
+		<img src="img/19.png" alt="APPS" width="60" height="auto" style="float: center" FONT="Pacifico" WIDTH: 30%>
+		<p color= "#D2691E" >🐦Desenvolvido por: Apps Mileva</p>
+		<p><a href="https://www.facebook.com/AppsDanielefelix" target="_blank" rel="external" font size = "2px" width="35" height="30" >https://www.facebook.com/AppsDanielefelix </a> </p>
+</div>
+
+</FOOTER>
+</html>
+

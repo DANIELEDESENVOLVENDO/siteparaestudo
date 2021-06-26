@@ -1,0 +1,94 @@
+
+#main-banner1 {
+    padding:72px;
+    width: 100%;
+    height:auto;
+    background:none;
+	top: 77px; 
+	width: 550px;
+height: 398px;
+vertical-align: top;
+padding-top: 10px;
+position: absolute;
+ 
+--------------------------------------------------------------
+
+	padding-left:26px;
+	cursor:pointer;   
+	border-bottom: 46px;
+	margin-bottom:40px;
+	margin-top:30px;
+	display: inline-flex;
+	padding-right:18px;
+	padding-bottom: 20px;
+	padding-top: 18px;
+	margin-left: 30px;
+	display:inline-block;
+	margin: .5em;
+    
+    padding:0.5em 1em ;
+    border:2px solid rgb(9, 58, 24);
+    
+    
+	float: right;
+	margin-right: 150px;
+	min-width: 130px;
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	text-transform: uppercase; 
+******************************
+
+.btn {
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight:800;
+	border: none;
+	padding-left:26px;
+	cursor:pointer;
+    border:none;
+    text-decoration: none;
+	background-position:right;
+	border-bottom: 26px;
+	border-radius: 50px;
+	margin-bottom:40px;
+	margin-top:30px;
+	display: inline-flex;
+	padding-right:20px;
+	padding-bottom: 10px;
+	padding-top: 8px;
+	margin-left: 30px;
+	
+}
+
+/*logo tecpb*/
+#main-banner {
+    padding: 2px;
+    width: 1000px;
+    height:530px;
+    background:none;
+	position: absolute; 
+	top: -84px; 
+	left:55px; 
+	color: black;
+	font-size: x-large
+}
+#main-banner-content {
+    height: auto;
+    width: 800px;
+}
+#main-banner1 {
+    padding: -2px;
+    width: 100%;
+    height:530px;
+    background:none;
+	top: -3px; 
+	left:4px; 
+	color: black;
+	font-size: x-large;
+}
+#main-banner1-content {
+    height: auto;
+    width: 800px;
+}
